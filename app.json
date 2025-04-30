@@ -1,26 +1,31 @@
 {
-  "expo": {
-    "name": "ToolLife",
-    "slug": "httpssexpodevricardosandritoolife-app",
-    "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
-    },
-    "updates": {
-      "fallbackToCacheTimeout": 0
-    },
-    "assetBundlePatterns": ["**/*"],
-    "android": {
-      "package": "com.toolife.app"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "httpssexpodevricardosandritoolife-app"
-      }
+  "name": "ToolLife",
+  "slug": "httpssexpodevricardosandritoolife-app",
+  "version": "1.0.0",
+  "orientation": "portrait",
+  "icon": "./assets/icon.png",
+  "splash": {
+    "image": "./assets/splash.png",
+    "resizeMode": "contain",
+    "backgroundColor": "#ffffff"
+  },
+  "updates": {
+    "fallbackToCacheTimeout": 0
+  },
+  "assetBundlePatterns": [
+    "**/*"
+  ],
+  "android": {
+    "package": "com.toollife.app"
+  },
+  "extra": {
+    "eas": {
+      "projectId": "027d4242-e5a5-470b-9f03-c85cad15d4d5"
     }
-  }
+  },
+  "sdkVersion": "52.0.0",
+  "platforms": [
+    "ios",
+    "android"
+  ]
 }
