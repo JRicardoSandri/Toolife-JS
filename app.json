@@ -8,6 +8,12 @@
     "android": {
       "package": "com.toollife.app",
       "versionCode": 1
+    },
+    "sdkVersion": "52.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "027d4242-e5a5-470b-9f03-c85cad415d45"
+      }
     }
   }
 }
